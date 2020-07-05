@@ -1,0 +1,2 @@
+initialize a linked list
+ || set the head node --> data= data , next = null
